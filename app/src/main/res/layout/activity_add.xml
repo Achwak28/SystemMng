@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".AddEdit">
+
+
+    <EditText
+        android:id="@+id/edit_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Full Name"
+        android:inputType="text"
+        tools:ignore="InvalidId,MissingConstraints" />
+
+    <EditText
+        android:id="@+id/edit_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Test 1"
+        android:inputType="textMultiLine"
+        tools:ignore="InvalidId,MissingConstraints" />
+    <EditText
+        android:id="@+id/edit_test2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Test 2"
+        android:inputType="textMultiLine"
+        tools:ignore="InvalidId,MissingConstraints" />
+    <EditText
+        android:id="@+id/edit_presence"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Presence"
+        android:inputType="textMultiLine"
+        tools:ignore="InvalidId,MissingConstraints" />
+
+
+
+
+</LinearLayout>

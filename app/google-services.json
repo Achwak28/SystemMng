@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "857767026769",
+    "firebase_url": "https://systemmng-89f4a.firebaseio.com",
+    "project_id": "systemmng-89f4a",
+    "storage_bucket": "systemmng-89f4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857767026769:android:89912b93c414c4fa999870",
+        "android_client_info": {
+          "package_name": "com.example.systemmng"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857767026769-vqki2mtniek1n62idqgt7bnhqnumi5e6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0WB7Ee5yIVJL_QJarW2KvD3w9U4AH7cA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857767026769-vqki2mtniek1n62idqgt7bnhqnumi5e6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
